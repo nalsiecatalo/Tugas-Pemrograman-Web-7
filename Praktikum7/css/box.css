@@ -1,0 +1,38 @@
+.box1 {
+    background-color:skyblue ;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+.box2 {
+    background-color: lightpink;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+.box3 {
+    background-color: pink;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+.box4 {
+    background-color: skyblue ;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+body {
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+}
+img {
+    width: 250px;
+    display: inline;
+    margin: 2em;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
